@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
+![Static Badge](https://img.shields.io/badge/HTML5-orange)
+
+
 # PixelCanvas
 🎨 Um Jogo de desenhar em um canvas global
 
